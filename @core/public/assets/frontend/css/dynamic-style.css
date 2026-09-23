@@ -1,0 +1,13 @@
+/* white you custom css code here. only css code will work */
+.grecaptcha-badge{
+    width: 256px;
+    height: 60px;
+    display: block;
+    transition: right 0.3s ease 0s;
+    position: fixed;
+    bottom: 14px;
+    right: -186px;
+    box-shadow: gray 0px 0px 5px;
+    border-radius: 2px;
+    overflow: hidden;
+}

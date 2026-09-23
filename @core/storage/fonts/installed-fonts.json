@@ -1,0 +1,18 @@
+{
+    "baloo tamma 2": {
+        "normal": "\/home\/xgenious-nexelit\/htdocs\/nexelit.xgenious.com\/@core\/storage\/fonts\/\/baloo_tamma_2_normal_9a8ce5c9729d6f4fad2017e429f3448a",
+        "600": "\/home\/xgenious-nexelit\/htdocs\/nexelit.xgenious.com\/@core\/storage\/fonts\/\/baloo_tamma_2_600_b9cd29988aac4eaa80de17c87ffcf673",
+        "bold": "baloo_tamma_2_bold_b4ea6c780268f48e13df9526909115ea"
+    },
+    "open sans": {
+        "normal": "\/home\/xgenious-nexelit\/htdocs\/nexelit.xgenious.com\/@core\/storage\/fonts\/\/open_sans_normal_db681fdbf640fe1e91be48917a2e7fa1",
+        "600": "\/home\/xgenious-nexelit\/htdocs\/nexelit.xgenious.com\/@core\/storage\/fonts\/\/open_sans_600_255f61ac329584600fe78c0036ba7c53",
+        "bold": "open_sans_bold_aee4a353f84fa74c10e96b62820c535a"
+    },
+    "rubik": {
+        "300": "\/home\/xgenious-nexelit\/htdocs\/nexelit.xgenious.com\/@core\/storage\/fonts\/\/rubik_300_b27da1b54e95d2c32d3b0f8c37e6b973",
+        "normal": "\/home\/xgenious-nexelit\/htdocs\/nexelit.xgenious.com\/@core\/storage\/fonts\/\/rubik_normal_6eed09175d6dcd082a09d51ebed5499c",
+        "500": "\/home\/xgenious-nexelit\/htdocs\/nexelit.xgenious.com\/@core\/storage\/fonts\/\/rubik_500_021e62a54b1250e937d09627aa86ffdd",
+        "600": "rubik_600_d920da52310321eaa9860f5cc81a837e"
+    }
+}
